@@ -1,4 +1,3 @@
-
 #1.Mean is the sum of values divided by count,Use for symmetric data, Median is the middle value after sorting,use when data has extremes,Mode is the value that appears most often,use categorical data or repeated values.
 #2.P value is the probability of observing the data or something more extreme given the null hypothesis is true.
 #3.Left means the tail extends to the left. The mean is less than the median,Right means the tail extends to the right. Then the mean is greater.
@@ -24,4 +23,5 @@ print(max([2, 7, 3, 9, 5]))
 #11. Mean = (3 + 5 + 3 + 4 + 5) ÷ 5 = 20 ÷ 5 = 4 books
 #12. Median = 3, 3, 4, 5, 5 = 4 books 
 #13. Mode = 3 and 5 both appears twice, so there are two modes 
+
 
